@@ -1,6 +1,6 @@
-### Hi, I am horhorou 👋
+# Hi, I am horhorou 👋
 ## I develop web app and participate in Game Jams from time to time! 👨‍💻
-# Follow me to find the source code of my web ideas or my video games! 👥
+### Follow me to find the source code of my web ideas or my video games! 👥
 
 
 - 🔭 I’m currently working on theorical stuff like Database Design, Algorithms and Data Structures to be a better dev!
