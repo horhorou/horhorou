@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning a lot of things! But the main one is JavaScript.
 - 👯 I’m looking to collaborate on JavaScript projects or Godot Games!
 - 💭 I would love to create an innovative open-source project!
-- ⚡ Fun fact: I participate in Ludum Dare 48 ! Check my game here : https://horhorou.itch.io/dungeon-deeper
+- ⚡ Fun fact: I participated in Ludum Dare 48 ! Check my game here : https://horhorou.itch.io/dungeon-deeper
