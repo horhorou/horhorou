@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning a lot of things!
 - 👯 I’m looking to collaborate on Web projects or Godot Games!
 - 💭 I would love to create an innovative open-source project!
-- ⚡ Fun fact: I participated in Ludum Dare 48 ! Check my game here : https://horhorou.itch.io/dungeon-deeper
+- ⚡ Fun fact: I participated in Ludum Dare 48 ! Check my game here : https://ldjam.com/events/ludum-dare/48/dungeon-deeper
 
 
 #### Top Technologies
