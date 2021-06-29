@@ -2,7 +2,7 @@
 ![Github Badge](https://img.shields.io/github/followers/horhorou?style=social)
 
 ### I'm a web developer and game developer at my spare time! 👨‍💻
-- 🔭 I’m currently working on [FeeBack][feeBack] !
+- 🔭 I’m currently working on myself !
 - 🌱 I’m currently learning a lot of things!
 - 👯 I’m looking to collaborate on Web projects or Godot Games!
 - 💭 I would love to create an innovative open-source project!
