@@ -1,4 +1,4 @@
-### Hi I'm Adil aka [horhorou][website]
+### Hi I'm Adil aka [horhorou]
 ![Github Badge](https://img.shields.io/github/followers/horhorou?style=social)
 
 ### Fulltime developer at HumanFab 👨‍💻
